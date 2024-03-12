@@ -1,0 +1,90 @@
+body{
+    font-family: 'Lato', sans-serif;
+font-family: 'Poppins', sans-serif;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    Max-width: 1440px;
+    height: 75px;
+    margin: 0 auto;
+    
+    
+}
+
+nav ul{
+    display: flex;
+    gap:24px ;
+}
+
+button{
+    all: unset;
+    width: 60px;
+    padding-left: 15px;
+    height: 30px;
+    background-color: #D01C28;
+    color: #fff;
+    border-radius: 5px;
+    border-color: #000;
+    
+}
+
+
+/* content*/
+.hero{
+  margin-left: 200px;
+  width: 1103px;
+  height: calc(100vh-150);
+  display: flex;
+}
+
+.hero-content h1{
+    font-size: 70px;
+
+    font-family: 'Lato', sans-serif;
+
+font-family: 'Roboto', sans-serif;
+}
+
+.hero-image{
+    width: 500px;
+    height: 400px;
+    float: right;
+    text-align:top; 
+
+}
+
+button {
+  margin: 10px;
+  width: 100px;
+}
+
+.hero-btn{
+ margin-left: 189px;
+ 
+}
+
+.flipkart{
+   height: 20px;
+   width: 20px; 
+   margin-right: 5px;
+    
+}
+
+.amazon{
+    height: 20px;
+    width: 20px;
+    margin-left: 5px;
+    
+     
+}
+
+.shopping{
+margin-left: 200px;
+    
+}
+.shopping p{
+    font-weight: 350;
+    margin-top: -6px;
+}
