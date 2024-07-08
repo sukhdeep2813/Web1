@@ -1,0 +1,17 @@
+.nav{
+    display: flex;
+    max-width: 1280px;
+    margin-top: -5px;
+    justify-content: space-between;
+    }
+    
+.nav ul{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+        
+    
+        
+    
+    }
+    

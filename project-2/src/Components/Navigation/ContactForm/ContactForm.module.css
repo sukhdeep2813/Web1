@@ -1,0 +1,72 @@
+.container{  
+    
+    margin: 0 auto;
+    max-width: 1280px;
+    height: 400px;
+    
+}
+
+.top_btn{
+    display: flex;
+    gap: 32px;
+}
+
+
+
+
+.form_control{
+
+ left: -44px;
+ position: relative;
+ margin-top: 20px;
+}
+
+.name{
+    height: 40px;
+    width: 440px;
+    border-radius: 6px;
+}
+
+.label{
+    position: relative;
+    left: 70px;
+    top: -22px;
+    background: #fff;
+    padding: 3px;
+   
+    
+}
+
+
+.form_control_area{
+
+  flex-direction: column;
+ 
+}
+.label_Text{
+  top: -64px;
+  left: 45px;
+  position: relative;
+  z-index: 1;
+  background-color: #fff;
+  padding: 2px ;
+
+}
+
+.TextBox{
+    max-height: 63px;
+    max-width: 440px;
+    left: -29px;
+    border-radius: 5px;
+    border: 2px solid black;
+    margin-top: 19px;
+    position: relative;
+    
+
+}
+
+.submit{
+    position: relative;
+    left: 244px;
+    margin-top: 10px;
+}
