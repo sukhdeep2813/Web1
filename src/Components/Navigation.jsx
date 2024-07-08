@@ -8,7 +8,7 @@ const Navigation = () => {
           </div>
 
             <ul style={{listStyle: "none"}}>
-            <li href ="#">MNU</li>
+            <li href ="#">MENU</li>
             <li href = "#">LOCATION</li>
             <li href = "#">ABOUT</li>
             <li href = "#">CONTACT</li>
