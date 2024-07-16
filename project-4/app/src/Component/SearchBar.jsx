@@ -68,6 +68,7 @@ border-radius:19.4467;
   display: flex;
   justify-content: space-between;
   flex-direction: column;
+  width:100%;
 }
 `;
 

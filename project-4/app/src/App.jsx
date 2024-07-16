@@ -16,7 +16,7 @@ const App = () => {
 
     const fetchFooddata = async() =>{
       setloading(true);
-      
+
     try {
    
       const response = await fetch(BASE_URL);
