@@ -2,7 +2,7 @@ import express, { ErrorRequestHandler } from "express";
 import createHttpError from "http-errors";
 import exampleRoute from "./routes/exampleRoutes";
 import userRoute from "./routes/userRoutes";
-import mongoose from "mongoose";
+import mongoose, { set } from "mongoose";
 import { DB, PORT } from "./config";
 import { errorHandler } from "./middleware/errorHanlder";
 import passport from "passport";
